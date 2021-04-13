@@ -48,8 +48,8 @@
 <a href="https://github.com/karanS1314">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanS1314&show_icons=true&theme=light&line_height=27" alt="Karan's github stats"/>
 </a>
-<a href="https://github.com/karanS1314/-valowar2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karanS1314&repo=-valowar2&theme=light" />
+<a href="https://github.com/karanS1314/Valowar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karanS1314&repo=Valowar&theme=light" />
 
 </a>
 <a href="https://github.com/karanS1314/JavaPractice">
