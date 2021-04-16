@@ -41,14 +41,6 @@
 <br>   
 <br>
 
-<p align="left">
-    <a href="https://github.com/karanS1314/github-readme-streak-stats">
-        <img title="Karan's stats" alt="Karan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karanS1314&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-
 <div align="left">
 
 ### Show some ❤️ by starring some of the repositories!
