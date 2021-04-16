@@ -41,16 +41,12 @@
 <br>   
 <br>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/karanS1314/github-readme-streak-stats">
         <img title="Karan's stats" alt="Karan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karanS1314&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-  <br/>
-    <a href="https://github.com/karanS1314/github-readme-stats"><img alt="Karan's github Stats" src="https://github-readme-stats.vercel.app/api?username=karanS1314&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/karanS1314/github-readme-stats"><img alt="karanS1314's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanS1314&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
 
 <div align="center">
