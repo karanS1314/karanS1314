@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan</h1>
-<h3 align="center">I'm a passionate coder from India.</h3>
+<!-- <h3 align="center">I'm a passionate coder from India.</h3> -->
 
-<a href="https://www.linkedin.com/in/gurkaran-singh-8563881b5/">
+<!-- <a href="https://www.linkedin.com/in/gurkaran-singh-8563881b5/">
   <img align="left" alt="Karan's Linkdein" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/karanS1314">
@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/gurkaran.singhb">
   <img align="left" alt="Karan's Facebook" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+ -->
 
 <br/>
 <br/>
@@ -28,19 +28,11 @@
 -  Pronouns: He/His
 -  Fun fact: I can solve a rubik's cube in under 30secs.
 
-- [![GitHub karanS1314](https://img.shields.io/github/followers/karanS1314?label=follow&style=social)](https://github.com/karanS1314)
+<!-- - [![GitHub karanS1314](https://img.shields.io/github/followers/karanS1314?label=follow&style=social)](https://github.com/karanS1314) -->
 
 
-**Languages and Tools:**  
+**Languages and Tools:**  -  Java, Css, HTML, NodeJS, JavaScript, Basic C++, MongoDB
 <br>
-<img width="3%" align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img width="3%" align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img width="3%" align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-<img width="3%" align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img width="3%" align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<br>   
-<br>
-
 <div align="left">
 
 ### Show some ❤️ by starring some of the repositories!
